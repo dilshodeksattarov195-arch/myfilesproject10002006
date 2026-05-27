@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteender",
+        "uuid": 7847472,
+        "checksum": "v52nfj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
